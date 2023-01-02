@@ -2,7 +2,7 @@
 
 </h1>
 
-# ❗ Sobre
+# ❗Sobre
 
 Esse projeto foi criado com o objetivo de colocar em prática algumas das tecnologias que estou estudando, juntei esse interesse com a minha paixão pela banda, e resolvi refazer o site oficial, porém sem copiar códigos, apenas olhando e refazendo do meu jeito, fiz algumas mudanças em relação ao site oficial e aprendi muitas coisas novas na criação desse projeto!
 
@@ -14,12 +14,12 @@ Você pode ver o site com seus proprios olhos em: https://beatles-copy-site.netl
 Nesse projeto utilizei as tecnologias: HTML, CSS e JavaScript
 
 
-# 📍 Futuras melhorias
+# ❗Futuras melhorias
 
 - Finalizar a responsividade do site para versões Mobile;
 - Melhorar o slide de imagens para mobile e desktop.
 
-# 💡 Adições não existentes no site oficial
+# 💡Adições não existentes no site oficial
 
 - Icones de redes sociais diferentes do site original;
 - Modo noturno para desktop e mobile;
