@@ -7,6 +7,7 @@
 Esse projeto foi criado com o objetivo de colocar em prática algumas das tecnologias que estou estudando, juntei esse interesse com a minha paixão pela banda, e resolvi refazer o site oficial, porém sem copiar códigos, apenas olhando e refazendo do meu jeito, fiz algumas mudanças em relação ao site oficial e aprendi muitas coisas novas na criação desse projeto!
 
 Você pode ver o site com seus proprios olhos em: https://beatles-copy-site.netlify.app/ pelo seu ambiente Desktop ou Mobile.
+Site oficial usado como base: https://www.thebeatles.com/let-it-be-0
 
 
 # 🔧 Tecnologias utilizadas
