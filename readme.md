@@ -1,19 +1,37 @@
-<h1 align="center"> Zip code consult project
+<h1 align="center"> Projeto Site Oficial The Beatles 
 
 </h1>
 
-# 📍 About
+# ❗ Sobre
 
-This project has been created with the object of putting in practice some of technologies that i'm learning, with that, i wanna study more about APIs and libs.
+Esse projeto foi criado com o objetivo de colocar em prática algumas das tecnologias que estou estudando, juntei esse interesse com a minha paixão pela banda, e resolvi refazer o site oficial, porém sem copiar códigos, apenas olhando e refazendo do meu jeito, fiz algumas mudanças em relação ao site oficial e aprendi muitas coisas novas na criação desse projeto!
 
-You can see the site on live on: https://zipcode-api-project.netlify.app on your Desktop or Smartphone.
+Você pode ver o site com seus proprios olhos em: https://beatles-copy-site.netlify.app/ pelo seu ambiente Desktop ou Mobile.
 
-# 🔧 Utilizes technologies
 
-On this project i utilized: HTML, CSS and JavaScript
+# 🔧 Tecnologias utilizadas
 
-# ❗Future improvements
+Nesse projeto utilizei as tecnologias: HTML, CSS e JavaScript
 
-- Finalize responsiveness to mobile resolutions;
-- Add an list of last searched zipcodes;
-- Refactor the code as i learn more.
+# 📍 Futuras melhorias
+
+- Finalizar a responsividade do site para versões Mobile;
+- Melhorar o slide de imagens para mobile e desktop.
+
+# 💡 Adições não existentes no site oficial
+
+- Icones de redes sociais diferentes do site original;
+- Modo noturno para desktop e mobile;
+- Algumas melhorias na fonte e tamanhos de texto;
+- Alinhamento do footer um pouco melhor do que o original (principalmente na parte de "contact us, privacy, credits e terms).
+
+# 📁 Como baixar o projeto:
+
+```
+bash
+
+$ git clone https://github.com/Paiva2/beatles-official-site
+
+$ cd beatles-official-site
+
+```
